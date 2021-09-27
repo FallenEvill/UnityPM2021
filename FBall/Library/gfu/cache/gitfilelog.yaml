@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -514704792, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 4
+  lastUpdatedAtString: 2021-09-21T21:03:58.370+05:00
+  initializedAtString: 2021-09-21T21:03:58.370+05:00
+  fileLog:
+    path: Assets
+    logEntries:
+    - commitID: 94754e3c3c3cb683a573319bfca07dfd598d5e0c
+      mergeA: 
+      mergeB: 
+      authorName: FallenEvill
+      authorEmail: 50545892+FallenEvill@users.noreply.github.com
+      commitEmail: 50545892+FallenEvill@users.noreply.github.com
+      commitName: FallenEvill
+      summary: Initial commit
+      description: 
+      timeString: 2021-09-21T21:00:20.000+05:00
+      commitTimeString: 2021-09-21T21:00:20.000+05:00
+      changes:
+      - path: Assets\.gitignore
+        fullPath: C:\Users\sashe\My project\Assets\.gitignore
+        projectPath: Assets\.gitignore
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
