@@ -21,13 +21,13 @@ public class SpringPendulum : MonoBehaviour
         else
             alpha = stPlace;
         amp = Mathf.Sqrt(stPlace * stPlace + (speed * speed / k * k));
-        transform.position = new Vector3(Mathf.Sin(alpha) * amp, 0, 0);
+        transform.position = new Vector3(0, Mathf.Sin(alpha) * amp, 0);
     }
 
     // Update is called once per frame
     void Update()
     {
-        transform.position = new Vector3(Convert.ToSingle(Math.Sin(Time.time * omega + alpha)) * amp, 0, 0);
+        transform.position = new Vector3(0, Convert.ToSingle(Math.Sin(Time.time * omega + alpha)) * amp, 0);
 
     }
 }
