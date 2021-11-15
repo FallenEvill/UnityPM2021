@@ -54,6 +54,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\P1.cs" />
+    <Compile Include="Assets\Nplanets.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
